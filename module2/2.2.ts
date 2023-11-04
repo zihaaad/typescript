@@ -1,5 +1,5 @@
 {
-  // Interface
+  // Interface & Interface vs Type Allias
 
   type User1 = {
     name: string;
