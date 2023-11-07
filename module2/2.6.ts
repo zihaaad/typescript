@@ -6,6 +6,7 @@
     student: T
   ) => {
     const course = "Next Level Web Development";
+
     return {
       ...student,
       course,
@@ -30,4 +31,5 @@
     email: "man2@gmail.com",
     hasWatch: "Apple Watch",
   });
+  console.log(student, student1, student2);
 }
